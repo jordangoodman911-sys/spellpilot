@@ -1,0 +1,10 @@
+{
+  "name": "SpellPilot — Commander Playtester",
+  "short_name": "SpellPilot",
+  "description": "A local-first Magic: The Gathering Commander deck playtester and analysis app.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#091114",
+  "theme_color": "#0d171b"
+}
